@@ -1,7 +1,7 @@
 # Kaf Village Tool <br/>(By GeNeTeL جنتل) 
 
 Simple Tool For Kaf Village Game, designed to enhance your experience in the game.
-<br> [Showcase Videos](https://www.youtube.com)
+<br> [Showcase Videos](https://www.youtube.com/watch?v=jGvshWkjp64)
 
 ## Features
 - **Completely Free:** :)
@@ -79,7 +79,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 # تول لـ لعبة قرية كاف <br/> (تم تطويرها من قبل جنتل GeNeTeL)
 
 تول بسيط مصمم لتحسين تجربتك داخل لعبة قرية كاف.<br/>
- [فيديو استعراض](https://www.youtube.com)
+ [فيديو استعراض](https://www.youtube.com/watch?v=jGvshWkjp64)
  
 ## المميزات
 - **مجاني بالكامل:** :)
