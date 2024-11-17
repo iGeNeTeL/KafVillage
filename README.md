@@ -1,7 +1,7 @@
 # Kaf Village Tool <br/>(By GeNeTeL جنتل) 
 
 Simple Tool For Kaf Village Game, designed to enhance your experience in the game.
-<br> [Showcase Videos](https://www.youtube.com/watch?v=jGvshWkjp64)
+<br> [Showcase Video](https://www.youtube.com/watch?v=jGvshWkjp64)
 
 ## Features
 - **Completely Free:** :)
